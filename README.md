@@ -4,7 +4,7 @@
 
 
 
-## Setting up the project
+### Setting up the project
 Make sure you have Node.js and NPM installed before setting up this project.
 
 In the `root`, `client` and `backend` directories install `node_modules` by running:
