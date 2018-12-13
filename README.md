@@ -1,7 +1,4 @@
-# pokemon-filter
-
-## A Pokedex Search powered by React MongoDB Express and Node.
-
+# pokemon-filter: powered by React MongoDB Express and Node.
 
 
 ### Setting up the project
