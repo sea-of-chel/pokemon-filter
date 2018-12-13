@@ -11,20 +11,9 @@ In the `root`, `client` and `backend` directories install `node_modules` by runn
 
 ```
 $ npm install
-cd client
-
-$ npm install
-..
-
-$ cd backend
-npm install
 ```
 
-```
-$ npm install
-```
-
-In the `root` direcroty run:
+In the `root` directory run:
 
 ```
 $ npm start
