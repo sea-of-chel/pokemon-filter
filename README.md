@@ -1,4 +1,4 @@
-# pokemon-filter: Powered by MongoDb, Express, React and Node.
+# Pokemon Filter: Powered by MongoDb, Express, React and Node.
 
 
 ### Setting up the project
