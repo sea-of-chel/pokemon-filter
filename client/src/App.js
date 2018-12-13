@@ -1,11 +1,11 @@
 import React, { Component } from "react";
 import axios from "axios";
-//import './App.css'
+import './App.css';
 
 function searchingFor(term){
   return function(x){
-    return x.name.toLowerCase().includes(term || x.types[0].toLowerCase().includes(term) ||  !term;
-  }
+    return x.name.toLowerCase().includes(term || x.types[0].toLowerCase().includes(term) ||  !term);
+  };
 }
 
 class App extends Component {
